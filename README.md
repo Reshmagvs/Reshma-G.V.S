@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hey there, I'm Reshma G.V.S.! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&width=435&lines=Software+Engineer+%7C+Tech+Explorer;Passionate+about+AI%2C+ML%2C+and+Innovation!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&width=435&lines=Tech+Explorer;Passionate+about+AI%2C+ML%2C+and+Innovation!" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,18 +10,15 @@
 
 > _A passionate developer, AI enthusiast, and problem solver who thrives on turning ideas into impactful solutions._ 🚀
 
-- 👩‍💻 **I build smart, scalable, and efficient software solutions.**
 - 🤖 **Currently diving deep into AI & Machine Learning.**
 - 🌍 **Love contributing to open-source projects & hackathons.**
 - 🏆 **Tech stack:** _Python | Java | Kotlin | React | ML & AI_
-- 📫 **Let's connect!** _[LinkedIn](https://linkedin.com/in/reshma-gvs)_ ✨
-
 ---
 
 ## 🛠️ **Tech Stack & Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin,react,git,github,docker,linux,vscode,aws" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,react,git,github,javascript,linux,vscode,aws" alt="Tech Stack" />
 </p>
 
 ---
