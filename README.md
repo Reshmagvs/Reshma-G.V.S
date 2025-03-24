@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Reshmagvs/Reshmagvs/blob/main/pjsk-pjsk-anime.gif" width="400px">
+  <img src="https://raw.githubusercontent.com/Reshmagvs/Reshmagvs/main/pjsk-pjsk-anime.gif" width="400px">
 </p>
 
 ## 🛠️ **Tech Stack & Tools**
