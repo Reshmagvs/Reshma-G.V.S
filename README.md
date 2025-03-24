@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/be3cJ.gif" width="400px">
+  <img src="[https://tenor.com/q9CZzQ6yGZa.gif]" width="400px">
 </p>
 
 ## 🛠️ **Tech Stack & Tools**
