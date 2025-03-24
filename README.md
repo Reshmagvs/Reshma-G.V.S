@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&width=435&lines=Tech+Explorer;Passionate+about+AI%2C+ML%2C+DataScience%Cand+Innovation!" alt="Typing SVG" />
 </p>
 
----
-
 ## 🌟 **About Me**
 
 > _A passionate developer, AI enthusiast, and problem solver who thrives on turning ideas into impactful solutions._ 🚀
@@ -24,16 +22,11 @@
   <img src="https://skillicons.dev/icons?i=python,java,kotlin,react,git,github,javascript,linux,vscode,aws" alt="Tech Stack" />
 </p>
 
----
-
 ## 📊 **GitHub Stats & Streak**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReshmaGVS&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
-
----
 
 ## 🌎 **Let's Connect & Collaborate!**
 
@@ -46,6 +39,5 @@
   </a>
 </p>
 
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Reshmagvs&color=blue&style=flat-square)
