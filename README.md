@@ -13,7 +13,6 @@
 - 🤖 **Currently diving deep into AI & Machine Learning & Datascience**
 - 🌍 **Love contributing to open-source projects & hackathons.**
 - 🏆 **Tech stack:** _Python | Java | Kotlin | React | ML & AI_
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Reshmagvs/Reshmagvs/main/pjsk-pjsk-anime.gif" width="400px">
