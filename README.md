@@ -15,6 +15,10 @@
 - 🏆 **Tech stack:** _Python | Java | Kotlin | React | ML & AI_
 ---
 
+<p align="center">
+  <img src="https://media.tenor.com/be3cJ.gif" width="400px">
+</p>
+
 ## 🛠️ **Tech Stack & Tools**
 
 <p align="center">
