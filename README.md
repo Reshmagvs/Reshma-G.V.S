@@ -15,8 +15,6 @@
 - 🏆 **Tech stack:** _Python | Java | Kotlin | React | ML & AI_
 ---
 
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400px">
-
 ## 🛠️ **Tech Stack & Tools**
 
 <p align="center">
