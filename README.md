@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hey there, I'm Reshma G.V.S.! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&width=435&lines=Tech+Explorer;Passionate+about+AI%2C+ML%2C+and+Innovation!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&width=435&lines=Tech+Explorer;Passionate+about+AI%2C+ML%2C+DataScience%Cand+Innovation!" alt="Typing SVG" />
 </p>
 
 ---
