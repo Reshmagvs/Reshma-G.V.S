@@ -28,8 +28,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReshmaGVS&theme=tokyonight" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ReshmaGVS&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReshmaGVS&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
@@ -39,7 +37,7 @@
 ## 🌎 **Let's Connect & Collaborate!**
 
 <p align="center">
-  <a href="https://linkedin.com/in/re">
+  <a href="https://www.linkedin.com/in/reshma-g-v-s-740906295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:gvsreshma2005@gmail.com">
