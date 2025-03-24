@@ -26,8 +26,6 @@
 ## 📊 **GitHub Stats & Streak**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReshmaGVS&theme=tokyonight" alt="GitHub Streak" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReshmaGVS&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
