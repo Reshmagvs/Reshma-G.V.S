@@ -6,8 +6,6 @@
 
 ## 🌟 **About Me**
 
-> _A passionate developer, AI enthusiast, and problem solver who thrives on turning ideas into impactful solutions._ 🚀
-
 - 🤖 **Currently diving deep into AI & Machine Learning & Datascience**
 - 🌍 **Love contributing to open-source projects & hackathons.**
 - 🏆 **Tech stack:** _Python | Java | Kotlin | React | ML & AI_
