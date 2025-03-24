@@ -10,10 +10,12 @@
 
 > _A passionate developer, AI enthusiast, and problem solver who thrives on turning ideas into impactful solutions._ 🚀
 
-- 🤖 **Currently diving deep into AI & Machine Learning.**
+- 🤖 **Currently diving deep into AI & Machine Learning & Datascience**
 - 🌍 **Love contributing to open-source projects & hackathons.**
 - 🏆 **Tech stack:** _Python | Java | Kotlin | React | ML & AI_
 ---
+
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400px">
 
 ## 🛠️ **Tech Stack & Tools**
 
@@ -49,3 +51,4 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=Reshmagvs&color=blue&style=flat-square)
