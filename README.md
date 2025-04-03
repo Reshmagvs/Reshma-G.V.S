@@ -18,8 +18,7 @@
 
 ## 📊 **GitHub Stats & Streak**
 
-## 🔥 My GitHub Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Reshmagvs&theme=dark&hide_border=true&fire=FF7F50)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Reshmagvs)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReshmaGVS&layout=compact&theme=tokyonight" alt="Top Languages" />
